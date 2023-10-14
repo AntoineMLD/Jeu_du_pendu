@@ -13,8 +13,6 @@ mot_a_trouver, mot_cacher = generation_des_mots_par_niveau(demande_niveau)
 
 
 
-
-
 #boucle pour trouver le mot
 while tentatives > 0:
     demande_utilisateur = input("Devinez une lettre :")
